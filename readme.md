@@ -19,7 +19,7 @@ now rauchg/slackin
 
 Other platforms:
 
-- [Heroku](https://heroku.com/deploy?template=https://github.com/rauchg/slackin/tree/master)
+- [Heroku](https://heroku.com/deploy?template=https://github.com/bryant1410/slackin/tree/master)
 - [Azure](https://azuredeploy.net/)
 - [OpenShift](https://github.com/rauchg/slackin/wiki/OpenShift)
 - [IBM Bluemix](https://bluemix.net/deploy?repository=https://github.com/rauchg/slackin)
